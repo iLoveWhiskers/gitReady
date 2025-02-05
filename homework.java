@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class homework {
 	public static void main(String[] args) {
 		//defined variables
-		int points=900;
+		int points=0;
 		int commuteTime=-1;
 		int yearlyIncome=-1;
 		float gpa=-1;
